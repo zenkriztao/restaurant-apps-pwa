@@ -15,9 +15,11 @@ Website provides information about the restaurant
 
 <h1 align='center'> 
 <img src = "https://i.ibb.co/mBqsjrh/Screen-Shot-2020-10-24-at-01-34-15.png" width = "600px", height ="300px">
+  </h1>
   
   ##
   
+  <h1 align='center'> 
 <img src = "https://i.ibb.co/NjRVN21/Screen-Shot-2020-10-24-at-00-55-41.png" width = "600px", height ="300px">
 </h1>
 
