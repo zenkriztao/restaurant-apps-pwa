@@ -11,6 +11,19 @@ Website provides information about the restaurant
 * Add new review
 * Accessed offline
 
+## Demo w/screenshot
+
+<h1 align='center'> 
+<img src = "https://i.ibb.co/mBqsjrh/Screen-Shot-2020-10-24-at-01-34-15.png" width = "600px", height ="300px">
+<img src = "https://i.ibb.co/NjRVN21/Screen-Shot-2020-10-24-at-00-55-41.png" width = "600px", height ="300px">
+</h1>
+
+## Testing Succces
+
+<h1 align='center'> 
+<img src = "https://i.ibb.co/qRr9w2d/Screen-Shot-2020-10-24-at-00-56-31.png" width = "600px", height ="300px">
+</h1>
+
 ## Build With
 - [Webpack](https://webpack.js.org/)
 - [PWA](https://developers.google.com/web/progressive-web-apps)
